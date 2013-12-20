@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Image">
+      <UniqueIdentifier>{f555697c-5a61-470c-9d5b-91898ea3f52f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Workspace">
+      <UniqueIdentifier>{59bb93f8-6b57-43dd-84f7-dd10de02b21a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Analizers">
+      <UniqueIdentifier>{7c815b77-fdbb-42f1-b4f9-47c8ebe49c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Analizers\Gradient">
+      <UniqueIdentifier>{c10bbc72-c634-48f0-9aab-3e62c6ed024f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Result">
+      <UniqueIdentifier>{d0afc0c7-50f0-422a-9e16-ecb341d13178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Image">
+      <UniqueIdentifier>{f8f96f43-0131-4ecd-b70c-62834740787c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Workspace">
+      <UniqueIdentifier>{77983432-0cfb-459a-b2d0-9434ca409be1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Analizers">
+      <UniqueIdentifier>{5af15d82-0824-4b9b-885f-de96323d3ec4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Analizers\Gradient">
+      <UniqueIdentifier>{9e1f664a-a70f-43ef-9881-c9db69858105}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Result">
+      <UniqueIdentifier>{68e9bcbe-e4b5-45db-b9e6-207fb9470dc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\ErrorManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MVL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MVL_Settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Image.cpp">
+      <Filter>Source Files\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Workspace.cpp">
+      <Filter>Source Files\Workspace</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GradientAnalizer.cpp">
+      <Filter>Source Files\Analizers\Gradient</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Result.cpp">
+      <Filter>Source Files\Result</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\CommonMacro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\ErrorManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MVL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MVL_Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MVL_Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Object_Identification.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\OpenCVHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Target\PreProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Image.h">
+      <Filter>Header Files\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Workspace.h">
+      <Filter>Header Files\Workspace</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Analizer.h">
+      <Filter>Header Files\Analizers</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GradientAnalizer.h">
+      <Filter>Header Files\Analizers\Gradient</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Result.h">
+      <Filter>Header Files\Result</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

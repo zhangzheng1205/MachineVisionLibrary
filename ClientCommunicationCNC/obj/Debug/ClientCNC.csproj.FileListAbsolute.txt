@@ -1,0 +1,11 @@
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\Interop.NATUPNPLib.dll
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCNC.csproj.ResolveComReference.cache
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ResolveAssemblyReference.cache
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCommunicationCNC.Form1.resources
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCommunicationCNC.Properties.Resources.resources
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCNC.csproj.GenerateResource.Cache
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\bin\Debug\ClientCNC.exe
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\bin\Debug\ClientCNC.pdb
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\bin\Debug\Interop.NATUPNPLib.dll
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCNC.exe
+C:\Proj\Machine Vision Library\ClientCommunicationCNC\obj\Debug\ClientCNC.pdb

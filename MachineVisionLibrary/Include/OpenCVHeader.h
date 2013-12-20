@@ -1,0 +1,10 @@
+#include <cxcore.h>
+#include <cv.h>
+#include <highgui.h>
+#include <cvaux.h>
+#include <cv.hpp>
+#include <cvaux.hpp>
+#include <cvvidsurv.hpp>
+#include <cxcore.hpp>
+#include <cxtypes.h>
+#include <ml.h>

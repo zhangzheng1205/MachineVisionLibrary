@@ -1,0 +1,38 @@
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\ComCommunicator.exe
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\ComCommunicator.pdb
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ResolveAssemblyReference.cache
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.AddLineForm.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.AddPointForm.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CreateBatch.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.Form1.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.Properties.Resources.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.SelectEdgeDetection.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.csproj.GenerateResource.Cache
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.exe
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.pdb
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CNC_Parameters.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.ServerForm.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.ImageViewer.resources
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\Interop.NATUPNPLib.dll
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.csproj.ResolveComReference.cache
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\Interop.NATUPNPLib.dll
+C:\Proj\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CNC_Design_Objects.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\ComCommunicator.exe
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\ComCommunicator.pdb
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\bin\Debug\Interop.NATUPNPLib.dll
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.csprojResolveAssemblyReference.cache
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\Interop.NATUPNPLib.dll
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.csproj.ResolveComReference.cache
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.AddLineForm.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.AddPointForm.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CNC_Design_Objects.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CNC_Parameters.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.CreateBatch.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.Form1.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.ImageViewer.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.Properties.Resources.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.SelectEdgeDetection.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.ServerForm.resources
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.csproj.GenerateResource.Cache
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.exe
+D:\EAL embedded software\software by Lorenzo\Machine Vision Library\ComCommunicator\ComCommunicator\obj\Debug\ComCommunicator.pdb
